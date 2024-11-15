@@ -1,9 +1,4 @@
-//
-//  HighScore.swift
-//  Quiz App
-//
-//  Created by Girish Parate on 10/09/22.
-//
+
 
 import Foundation
 

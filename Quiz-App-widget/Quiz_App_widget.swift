@@ -1,9 +1,4 @@
-//
-//  Quiz_App_widget.swift
-//  Quiz-App-widget
-//
-//  Created by Girish Parate on 11/09/22.
-//
+
 
 import WidgetKit
 import SwiftUI

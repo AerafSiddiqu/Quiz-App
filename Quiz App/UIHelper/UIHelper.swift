@@ -1,9 +1,3 @@
-//
-//  UIHelper.swift
-//  Quiz App
-//
-//  Created by Girish Parate on 11/06/22.
-//
 
 import SwiftUI
 import HTMLEntities

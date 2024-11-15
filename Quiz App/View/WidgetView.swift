@@ -1,9 +1,4 @@
-//
-//  WidgetView.swift
-//  Quiz App
-//
-//  Created by Girish Parate on 11/09/22.
-//
+
 
 import SwiftUI
 

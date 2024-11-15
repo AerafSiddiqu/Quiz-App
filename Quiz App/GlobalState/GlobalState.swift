@@ -1,9 +1,4 @@
-//
-//  GlobalState.swift
-//  Quiz App
-//
-//  Created by Girish Parate on 13/06/22.
-//
+
 
 import SwiftUI
 import WidgetKit

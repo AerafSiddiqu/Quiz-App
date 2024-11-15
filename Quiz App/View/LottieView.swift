@@ -1,9 +1,4 @@
-//
-//  LottieView.swift
-//  Quiz App
-//
-//  Created by Girish Parate on 17/06/22.
-//
+
 
 import SwiftUI
 
